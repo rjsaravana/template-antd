@@ -6,7 +6,6 @@ export const Design = () => {
     return (
         <>
             <Row>
-
                 <Col >
                     <Card >
                         <Row>
@@ -37,7 +36,7 @@ export const Design = () => {
                         <Row>
                             <Col>
                                 <h6>EMAIL</h6>
-                                <h6>neeraj@cyclops.com</h6>
+                                <h6>demo@gmail.com</h6>
                             </Col>
                             <Col>
                                 <h6>ROLE</h6>
